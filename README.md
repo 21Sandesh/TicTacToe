@@ -13,8 +13,8 @@ This is a simple implementation of the classic Tic Tac Toe game in C++. The game
    git clone https://github.com/21Sandesh/TicTacToe.git
 
 2. **Compile and Run**
-   g++ -o TicTacToeGame TicTacToeGame.cpp
-   ./TicTacToeGame
+   ```g++ -o TicTacToeGame TicTacToeGame.cpp```
+   ```./TicTacToeGame```
 
 3. **Choose Game Mode**
    Enter 1 to play with another user.
